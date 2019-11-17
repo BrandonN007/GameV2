@@ -188,9 +188,6 @@ public class MyWorld extends SimulationWorld
         addObject(cannonEnemy,781,296);
         TimeOverlay timeOverlay = new TimeOverlay();
         addObject(timeOverlay,924,42);
-        MovingBrickPlatform movingBrickPlatform = new MovingBrickPlatform(1, 5);
-        addObject(movingBrickPlatform,474,622);
-        removeObject(movingBrickPlatform);
         MovingBrickPlatform movingBrickPlatform = new MovingBrickPlatform(2, 5);
         addObject(movingBrickPlatform,468,622);
     }
