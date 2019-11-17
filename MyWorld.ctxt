@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=MyWorld
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ MyWorld\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=MyWorld()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ moveCameraFromAvatar()
+comment4.params=
+comment4.target=void\ moveCamera()
+comment5.params=
+comment5.target=void\ handleCannonBallCollisions()
+comment6.params=ball1\ ball2
+comment6.target=void\ collisionResponse(CannonBall,\ CannonBall)
+comment7.params=
+comment7.target=void\ reflectCannonBallsOnWindow()
+comment8.params=
+comment8.target=void\ prepare()
+numComments=9
